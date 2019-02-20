@@ -1,6 +1,6 @@
-# backend-tech-assessment
+# Self Employed marketplace
 
-Skeleton project for Backend Technical Assessment.
+Skeleton project for Self Employed marketplace.
 
 Includes
 --------
